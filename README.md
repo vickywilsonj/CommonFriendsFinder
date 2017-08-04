@@ -13,12 +13,12 @@ This is a MapReduce application, which finds a common friends between two friend
 
 # Output:
 
-* A B             C D
-* A C             B D
-* A D             B C
-* B C             A D E
-* B D             A C E
-* B E             C D
-* C D             A B E
-* C E             B D
-* D E             B C
+* A B      >      C D
+* A C      >      B D
+* A D      >      B C
+* B C      >      A D E
+* B D      >      A C E
+* B E      >      C D
+* C D      >      A B E
+* C E      >      B D
+* D E      >      B C
